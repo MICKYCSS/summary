@@ -1,5 +1,5 @@
 # summary
-In the learning process of front-end,I realize the importance of summarizing.So I decide to write down what I have learned and I can strengthen the connection between knowledge.At present,there is only the outline below and I need a lot of time to bring the things I wrote elsewhere here.
+In the learning process of front-end,I realize the importance of summarizing.So I decide to write down what I have learned and I can strengthen the connection between knowledge.At present,there is only the outline below and I need a lot of time to bring the things I wrote elsewhere here.Besides,I have to say it's really a big challenge for me to translate Chinese into English.But I still want to stimulate myself and get fast growth.
 ## HTML
 1. [Inline element and Block element](https://github.com/MICKYCSS/summary/issues/1)
 2. [Document meta-information]
