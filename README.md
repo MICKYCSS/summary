@@ -2,7 +2,7 @@
 在学习前端的过程中发现总结是非常重要的一件事情，在总结的过程中将知识结构化才能更好地把知识点进行连接和巩固。所以，开始总结吧。
 ## Vue相关
 1. [Vuex（2019/10/21）](https://github.com/MICKYCSS/summary/issues/3)
-2. [computed、methods和watch的区别]
+2. [computed和watch的区别](https://github.com/MICKYCSS/summary/issues/4)
 ## HTML
 1. [行内元素和块级元素](https://github.com/MICKYCSS/summary/issues/1)
 2. [文档元信息](https://github.com/MICKYCSS/summary/issues/2)
