@@ -28,12 +28,7 @@
 7. [防抖和节流]
 8. [垃圾回收机制]
 ## HTTP
-1. [请求方式]
-2. [状态码]
-3. [常用请求头和响应头]
-4. [强缓存和协商缓存]
-5. [Cookie、session和Webstorage]
-6. [HTTP和HTTPS]
+1. [HTTP知识体系](https://github.com/MICKYCSS/summary/issues/5)
 ## 浏览器
 1. [输入URL到页面呈现的过程]
 2. [DOM API]
